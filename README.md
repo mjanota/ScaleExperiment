@@ -1,2 +1,0 @@
-# ScaleExperiment
-Created with CodeSandbox
